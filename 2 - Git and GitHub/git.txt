@@ -21,3 +21,15 @@ git commit -m "Description."
 git status - to check the status
 git log - history of changes
 git log --oneline - for shorter history log
+
+- Branching
+
+- List all the branches
+git branch -a
+
+- Create a branch
+git branch [branch-name]
+
+- Switch 
+git checkout [branch-name]
+git switch [branch-name]
